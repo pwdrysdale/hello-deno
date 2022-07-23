@@ -1,0 +1,8 @@
+{
+  "strict": true,
+  "strictPropertyInitialization": true,
+  "compilerOptions": {
+    "importsNotUsedAsValues": "remove",
+    "isolatedModules": false
+  }
+}
